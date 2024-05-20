@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cods>
+  <Goods strix="10000001">
+    <Name>Pen</Name>
+    <Gin>100</Gin>
+    <Amsativ>
+    </Amsativ>
+    <Jamket>
+    </Jamket>
+    <Qanak>998</Qanak>
+  </Goods>
+  <Goods strix="00000002">
+    <Name>Iphone</Name>
+    <Gin>160000</Gin>
+    <Amsativ>
+    </Amsativ>
+    <Jamket>
+    </Jamket>
+    <Qanak>980</Qanak>
+  </Goods>
+  <Goods strix="00000003">
+    <Name>Sponge</Name>
+    <Gin>250</Gin>
+    <Qanak>200</Qanak>
+    <Amsativ>
+    </Amsativ>
+    <Jamket>
+    </Jamket>
+  </Goods>
+  <Goods strix="00000004">
+    <Name>BoockRichter</Name>
+    <Gin>22000</Gin>
+    <Qanak>1200</Qanak>
+    <Amsativ>
+    </Amsativ>
+    <Jamket>
+    </Jamket>
+  </Goods>
+</Cods>

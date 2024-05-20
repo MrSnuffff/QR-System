@@ -1,0 +1,64 @@
+C:\Users\GUSE\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe.config
+C:\Users\GUSE\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe
+C:\Users\GUSE\source\repos\Colipso\Colipso\bin\Debug\Colipso.pdb
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.AssemblyReference.cache
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form1.resources
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.Properties.Resources.resources
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.GenerateResource.cache
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.CoreCompileInputs.cache
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.exe
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.pdb
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form2.resources
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.AssemblyReference.cache
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form1.resources
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form2.resources
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.Properties.Resources.resources
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.GenerateResource.cache
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.CoreCompileInputs.cache
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.exe
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.pdb
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe.config
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\bin\Debug\Colipso.pdb
+C:\Users\GUSE\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form3.resources
+C:\Users\Comp 9 Admin\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form3.resources
+D:\Colipso\Colipso\bin\Debug\Colipso.exe.config
+D:\Colipso\Colipso\bin\Debug\Colipso.exe
+D:\Colipso\Colipso\bin\Debug\Colipso.pdb
+D:\Colipso\Colipso\obj\Debug\Colipso.csproj.AssemblyReference.cache
+D:\Colipso\Colipso\obj\Debug\Colipso.csproj.SuggestedBindingRedirects.cache
+D:\Colipso\Colipso\obj\Debug\Colipso.Form1.resources
+D:\Colipso\Colipso\obj\Debug\Colipso.Form2.resources
+D:\Colipso\Colipso\obj\Debug\Colipso.Form3.resources
+D:\Colipso\Colipso\obj\Debug\Colipso.Properties.Resources.resources
+D:\Colipso\Colipso\obj\Debug\Colipso.csproj.GenerateResource.cache
+D:\Colipso\Colipso\obj\Debug\Colipso.csproj.CoreCompileInputs.cache
+D:\Colipso\Colipso\obj\Debug\Colipso.exe
+D:\Colipso\Colipso\obj\Debug\Colipso.pdb
+E:\Colipso\Colipso\bin\Debug\Colipso.exe.config
+E:\Colipso\Colipso\bin\Debug\Colipso.exe
+E:\Colipso\Colipso\bin\Debug\Colipso.pdb
+E:\Colipso\Colipso\obj\Debug\Colipso.csproj.AssemblyReference.cache
+E:\Colipso\Colipso\obj\Debug\Colipso.csproj.SuggestedBindingRedirects.cache
+E:\Colipso\Colipso\obj\Debug\Colipso.Form1.resources
+E:\Colipso\Colipso\obj\Debug\Colipso.Form2.resources
+E:\Colipso\Colipso\obj\Debug\Colipso.Form3.resources
+E:\Colipso\Colipso\obj\Debug\Colipso.Properties.Resources.resources
+E:\Colipso\Colipso\obj\Debug\Colipso.csproj.GenerateResource.cache
+E:\Colipso\Colipso\obj\Debug\Colipso.csproj.CoreCompileInputs.cache
+E:\Colipso\Colipso\obj\Debug\Colipso.exe
+E:\Colipso\Colipso\obj\Debug\Colipso.pdb
+C:\Users\GURGEN\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe.config
+C:\Users\GURGEN\source\repos\Colipso\Colipso\bin\Debug\Colipso.exe
+C:\Users\GURGEN\source\repos\Colipso\Colipso\bin\Debug\Colipso.pdb
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.AssemblyReference.cache
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form1.resources
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form2.resources
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.Form3.resources
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.Properties.Resources.resources
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.GenerateResource.cache
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.csproj.CoreCompileInputs.cache
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.exe
+C:\Users\GURGEN\source\repos\Colipso\Colipso\obj\Debug\Colipso.pdb
